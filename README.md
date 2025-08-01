@@ -15,3 +15,5 @@ Dates: 1 August - 30 September 2025
 5: Data Structures - Abstract Data Types. Queues, Stacks. Linked Lists. Trees, Binary Search Trees. Hash Tables. Tries.
 
 6: Python - Python: Functions, Arguments, Return Values; Variables; Boolean Expressions, Conditionals; Loops. Modules, Packages.
+
+7: Artificial intelligence - Prompt Engineering. System Prompt. User Prompt. Generative Artificial Intelligence. Artificial Intelligence. Decision Trees. Minimax. Machine Learning. Reinforcement Learning. Explore vs. Exploit. Deep Learning. Neural Networks. Large Language Models. Transformer Architecture. Hallucinations.
