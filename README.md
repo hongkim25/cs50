@@ -1,4 +1,4 @@
-# cs50 lecture notes
+# CS50 lecture notes
 
 Dates: 1 August - 30 September 2025
 
