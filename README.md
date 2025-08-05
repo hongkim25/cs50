@@ -17,3 +17,9 @@ Dates: 1 August - 30 September 2025
 6: Python - Python: Functions, Arguments, Return Values; Variables; Boolean Expressions, Conditionals; Loops. Modules, Packages.
 
 7: Artificial intelligence - Prompt Engineering. System Prompt. User Prompt. Generative Artificial Intelligence. Artificial Intelligence. Decision Trees. Minimax. Machine Learning. Reinforcement Learning. Explore vs. Exploit. Deep Learning. Neural Networks. Large Language Models. Transformer Architecture. Hallucinations.
+
+8: SQL - Flat-file Databases, Relational Databases, Shows, Schema, Data Types and Constraints, Primary and Foreign Keys, Querying, Indexes, Python and SQL, Race Conditions, SQL injection attacks
+
+9: HTML, CSS, Javascript - TCP/IP, Ports, DNS, DHCP, HTTP, Inspect, Status Codes, HTML, Regular Expressions, CSS, Bootstrap, JavaScript, Background, Blink, Autocomplete
+
+10: Flask - Flask, Forms, Jinja, Templates, Request Methods, Frosh IMs, SQLite and Python, Cookies and Sessions, Shopping Cart, Shows
